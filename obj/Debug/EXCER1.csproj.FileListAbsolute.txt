@@ -1,0 +1,8 @@
+C:\DAY2\EXCER1\EXCER1\obj\Debug\EXCER1.csproj.AssemblyReference.cache
+C:\DAY2\EXCER1\EXCER1\obj\Debug\EXCER1.csproj.SuggestedBindingRedirects.cache
+C:\DAY2\EXCER1\EXCER1\obj\Debug\EXCER1.csproj.CoreCompileInputs.cache
+C:\DAY2\EXCER1\EXCER1\bin\Debug\EXCER1.exe.config
+C:\DAY2\EXCER1\EXCER1\bin\Debug\EXCER1.exe
+C:\DAY2\EXCER1\EXCER1\bin\Debug\EXCER1.pdb
+C:\DAY2\EXCER1\EXCER1\obj\Debug\EXCER1.exe
+C:\DAY2\EXCER1\EXCER1\obj\Debug\EXCER1.pdb
